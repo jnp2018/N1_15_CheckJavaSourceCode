@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<class name="BaiA" modifier="public" extends="Object" implements="">
+    <method name="main" return="void" modifier="public static" parameter_type="String[]"/>
+    <method name="ucln" return="int" modifier="public static" parameter_type="int int"/>
+</class>

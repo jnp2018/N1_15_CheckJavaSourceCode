@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<class name="BaiC" modifier="public" extends="Object" implements="">
+    <method name="main" return="void" modifier="public static" parameter_type="String[]"/>
+</class>
